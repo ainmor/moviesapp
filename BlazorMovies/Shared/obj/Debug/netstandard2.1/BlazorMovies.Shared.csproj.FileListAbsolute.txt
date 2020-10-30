@@ -1,0 +1,9 @@
+D:\programming\dotnetblazor\MoviesWebApp\BlazorMovies\Shared\bin\Debug\netstandard2.1\BlazorMovies.Shared.deps.json
+D:\programming\dotnetblazor\MoviesWebApp\BlazorMovies\Shared\bin\Debug\netstandard2.1\BlazorMovies.Shared.dll
+D:\programming\dotnetblazor\MoviesWebApp\BlazorMovies\Shared\bin\Debug\netstandard2.1\BlazorMovies.Shared.pdb
+D:\programming\dotnetblazor\MoviesWebApp\BlazorMovies\Shared\obj\Debug\netstandard2.1\BlazorMovies.Shared.AssemblyInfoInputs.cache
+D:\programming\dotnetblazor\MoviesWebApp\BlazorMovies\Shared\obj\Debug\netstandard2.1\BlazorMovies.Shared.AssemblyInfo.cs
+D:\programming\dotnetblazor\MoviesWebApp\BlazorMovies\Shared\obj\Debug\netstandard2.1\BlazorMovies.Shared.csproj.CoreCompileInputs.cache
+D:\programming\dotnetblazor\MoviesWebApp\BlazorMovies\Shared\obj\Debug\netstandard2.1\BlazorMovies.Shared.dll
+D:\programming\dotnetblazor\MoviesWebApp\BlazorMovies\Shared\obj\Debug\netstandard2.1\BlazorMovies.Shared.pdb
+D:\programming\dotnetblazor\MoviesWebApp\BlazorMovies\Shared\obj\Debug\netstandard2.1\BlazorMovies.Shared.csprojAssemblyReference.cache
